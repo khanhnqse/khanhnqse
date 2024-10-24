@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm QuangKhanh</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Nguyen+Quang+Khanh;Font-end+developer;Have+a+nice+day+%3C3"></a>
+</p>
 
 - 🌱 I’m currently learning **React, Javascript**
 
