@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 ### 🌟 About Me
 
 ```js
@@ -15,9 +16,10 @@ const khanhnq = {
   role: "Frontend Developer",
   tools: ["React", "Tailwind", "Figma", "Node.js"],
   passion: "Crafting smooth user experiences & aesthetic interfaces",
-  motto: "Design with empathy. Code with clarity."
-}
+  motto: "Design with empathy. Code with clarity.",
+};
 ```
+
 ### 🌐 Connect with Me
 
 <p>
@@ -64,13 +66,18 @@ const khanhnq = {
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khanhnqse&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanhnqse&theme=react-dark&hide_border=true&area=true" width="48%" /> </p>
----
+## <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khanhnqse&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanhnqse&theme=react-dark&hide_border=true&area=true" width="48%" /> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 ### ✨ Quote I Live By
 
 > _"Creativity is intelligence having fun." — Albert Einstein_
+
 ---
 
 ### 🚀 Let's Build the Future, One Line at a Time.
