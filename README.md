@@ -63,21 +63,9 @@ const khanhnq = {
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <h4>Top Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnqse&hide_progress=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <h4>GitHub Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhnqse&theme=dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tuanhuu3264&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanhuu3264&theme=react-dark&hide_border=true&area=true" width="48%" /> </p>
 ---
 
 
