@@ -80,4 +80,3 @@ const khanhnq = {
 
 ---
 
-### 🚀 Let's Build the Future, One Line at a Time.
