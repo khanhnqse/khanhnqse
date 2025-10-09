@@ -1,5 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Quang Khanh</h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Nguyen+Quang+Khanh;Creative+Front-end+Developer;Crafting+clean+%26+modern+UIs;Let%E2%80%99s+build+something+awesome!">
